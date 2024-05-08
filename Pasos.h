@@ -1,4 +1,5 @@
 #ifndef PASOS_H
+#define PASOS_H
 
 int Completo (int NPasos);
 
